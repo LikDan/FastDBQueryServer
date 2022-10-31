@@ -3,3 +3,11 @@ Content-Type: text/plain
 Authorization: token
 
 SELECT * FROM table
+
+###
+
+POST http://studyum.net:954/
+Content-Type: text/plain
+Authorization: token
+
+SELECT * FROM table
